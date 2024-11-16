@@ -1,6 +1,5 @@
 numpy
 pandas
 matplotlib
-scipy.stats
-openpyxl
+scipy
 seaborn
